@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Netology_IB_Instruments
 //
-//  Created by Andrei Misikhin on 03.12.2022.
+//  Created by Maria Gorozhanova on 03.12.2022.
 //
 
 import UIKit
